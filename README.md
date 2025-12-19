@@ -11,7 +11,7 @@ With composer:
 $ composer config repositories.welpixel-magento2-weltpixel-backend git https://github.com/Weltpixel/magento2-weltpixel-backend.git
 $ composer require weltpixel/magento2-weltpixel-backend:dev-master
 
-$ composer config repositories.welpixel-magento2-weltpixel-owl-carousel-slider-lite git git@github.com:Weltpixel/magento2-weltpixel-owl-carousel-slider-liter.git
+$ composer config repositories.welpixel-magento2-weltpixel-owl-carousel-slider-lite git https://github.com/Weltpixel/magento2-weltpixel-owl-carousel-slider-liter.git
 $ composer require weltpixel/magento2-weltpixel-owl-carousel-slider-lite:dev-master-free
 ```
 
